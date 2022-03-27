@@ -1,0 +1,18 @@
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\bin\Debug\net5.0-windows\Basic Dictionary Project.exe
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\bin\Debug\net5.0-windows\Basic Dictionary Project.deps.json
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\bin\Debug\net5.0-windows\Basic Dictionary Project.runtimeconfig.json
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\bin\Debug\net5.0-windows\Basic Dictionary Project.runtimeconfig.dev.json
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\bin\Debug\net5.0-windows\Basic Dictionary Project.dll
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\bin\Debug\net5.0-windows\Basic Dictionary Project.pdb
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\Basic Dictionary Project.vbproj.AssemblyReference.cache
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\Basic_Dictionary_Project.Form1.resources
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\Basic Dictionary Project.vbproj.GenerateResource.cache
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\Basic Dictionary Project.GeneratedMSBuildEditorConfig.editorconfig
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\Basic Dictionary Project.AssemblyInfoInputs.cache
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\Basic Dictionary Project.AssemblyInfo.vb
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\Basic Dictionary Project.vbproj.CoreCompileInputs.cache
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\Basic Dictionary Project.dll
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\refint\Basic Dictionary Project.dll
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\Basic Dictionary Project.pdb
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\Basic Dictionary Project.genruntimeconfig.cache
+W:\VB2017\Basic Dictionary Project\Basic Dictionary Project\obj\Debug\net5.0-windows\ref\Basic Dictionary Project.dll
